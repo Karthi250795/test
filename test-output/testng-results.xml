@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10366" started-at="2022-01-10T16:17:16Z" finished-at="2022-01-10T16:17:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10366" started-at="2022-01-10T16:17:16Z" finished-at="2022-01-10T16:17:26Z">
+      <class name="com.dataProvider.DataProvider">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.dataProvider.DataProvider@5ce81285]" name="login" duration-ms="10251" started-at="2022-01-10T16:17:16Z" data-provider="datas" finished-at="2022-01-10T16:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.dataProvider.DataProvider@5ce81285]" name="login" duration-ms="10136" started-at="2022-01-10T16:17:16Z" data-provider="datas" finished-at="2022-01-10T16:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5454]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.dataProvider.DataProvider@5ce81285]" name="login" duration-ms="10289" started-at="2022-01-10T16:17:16Z" data-provider="datas" finished-at="2022-01-10T16:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Karthi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.dataProvider.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
